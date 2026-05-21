@@ -1,0 +1,4 @@
+python-dotenv
+requests
+web3
+# Add the BNB Agent SDK package once installed per the upstream repo instructions.
